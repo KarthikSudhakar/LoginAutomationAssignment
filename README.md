@@ -48,4 +48,6 @@ Execut the test with cmd+U
 * https://github.com/kif-framework/KIF
 * https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 * https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2
+* https://github.com/appium/appium-desktop
+* https://github.com/appium/selenium-swift
 
